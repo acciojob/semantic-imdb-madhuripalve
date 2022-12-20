@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+#nav1{
+    background-color: rgb(100, 11, 11);
+    height: 400px;
+    list-style-type: none;
+}
+#sum1{
+    background-color: rgb(255, 251, 0);
+    height: 500px;
+}
+.block{
+    background-color: rgb(255, 230, 0);
+}
+#quote{
+    background-color: brown;
+    color: aliceblue;
+}
+#div1{
+    background-color: rgb(255, 217, 0);
+}
+#p1{
+    background-color: blueviolet;
+}
+#p0{
+    background-color: black;
+    color: beige;
+}
